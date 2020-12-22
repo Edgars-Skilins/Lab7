@@ -1,0 +1,30 @@
+C:\Users\User\source\repos\Lab 4\QualifWorksClient\bin\Debug\QualifWorksClient.exe.config
+C:\Users\User\source\repos\Lab 4\QualifWorksClient\bin\Debug\QualifWorksClient.exe
+C:\Users\User\source\repos\Lab 4\QualifWorksClient\bin\Debug\QualifWorksClient.pdb
+C:\Users\User\source\repos\Lab 4\QualifWorksClient\bin\Debug\DataModel.dll
+C:\Users\User\source\repos\Lab 4\QualifWorksClient\bin\Debug\DataModel.pdb
+C:\Users\User\source\repos\Lab 4\QualifWorksClient\bin\Debug\DataModel.dll.config
+C:\Users\User\source\repos\Lab 4\QualifWorksClient\obj\Debug\QualifWorksClient.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Lab 4\QualifWorksClient\obj\Debug\QualifWorksClient.frmQualifWorks.resources
+C:\Users\User\source\repos\Lab 4\QualifWorksClient\obj\Debug\QualifWorksClient.Properties.Resources.resources
+C:\Users\User\source\repos\Lab 4\QualifWorksClient\obj\Debug\QualifWorksClient.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Lab 4\QualifWorksClient\obj\Debug\QualifWorksClient.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Lab 4\QualifWorksClient\obj\Debug\QualifWorksClient.csproj.CopyComplete
+C:\Users\User\source\repos\Lab 4\QualifWorksClient\obj\Debug\QualifWorksClient.exe
+C:\Users\User\source\repos\Lab 4\QualifWorksClient\obj\Debug\QualifWorksClient.pdb
+D:\Edgara\Skolai\Bakalaurs - 2. kurss\Vizuālās programmēšanas pamati\Lab5\QualifWorksClient\bin\Debug\QualifWorksClient.exe.config
+D:\Edgara\Skolai\Bakalaurs - 2. kurss\Vizuālās programmēšanas pamati\Lab5\QualifWorksClient\bin\Debug\QualifWorksClient.exe
+D:\Edgara\Skolai\Bakalaurs - 2. kurss\Vizuālās programmēšanas pamati\Lab5\QualifWorksClient\bin\Debug\QualifWorksClient.pdb
+D:\Edgara\Skolai\Bakalaurs - 2. kurss\Vizuālās programmēšanas pamati\Lab5\QualifWorksClient\bin\Debug\DataModel.dll
+D:\Edgara\Skolai\Bakalaurs - 2. kurss\Vizuālās programmēšanas pamati\Lab5\QualifWorksClient\bin\Debug\DataModel.pdb
+D:\Edgara\Skolai\Bakalaurs - 2. kurss\Vizuālās programmēšanas pamati\Lab5\QualifWorksClient\bin\Debug\DataModel.dll.config
+D:\Edgara\Skolai\Bakalaurs - 2. kurss\Vizuālās programmēšanas pamati\Lab5\QualifWorksClient\obj\Debug\QualifWorksClient.csprojAssemblyReference.cache
+D:\Edgara\Skolai\Bakalaurs - 2. kurss\Vizuālās programmēšanas pamati\Lab5\QualifWorksClient\obj\Debug\QualifWorksClient.frmQualifWorks.resources
+D:\Edgara\Skolai\Bakalaurs - 2. kurss\Vizuālās programmēšanas pamati\Lab5\QualifWorksClient\obj\Debug\QualifWorksClient.frmQualifWorksTopic.resources
+D:\Edgara\Skolai\Bakalaurs - 2. kurss\Vizuālās programmēšanas pamati\Lab5\QualifWorksClient\obj\Debug\QualifWorksClient.Properties.Resources.resources
+D:\Edgara\Skolai\Bakalaurs - 2. kurss\Vizuālās programmēšanas pamati\Lab5\QualifWorksClient\obj\Debug\QualifWorksClient.csproj.GenerateResource.cache
+D:\Edgara\Skolai\Bakalaurs - 2. kurss\Vizuālās programmēšanas pamati\Lab5\QualifWorksClient\obj\Debug\QualifWorksClient.csproj.CoreCompileInputs.cache
+D:\Edgara\Skolai\Bakalaurs - 2. kurss\Vizuālās programmēšanas pamati\Lab5\QualifWorksClient\obj\Debug\QualifWorksClient.csproj.CopyComplete
+D:\Edgara\Skolai\Bakalaurs - 2. kurss\Vizuālās programmēšanas pamati\Lab5\QualifWorksClient\obj\Debug\QualifWorksClient.exe
+D:\Edgara\Skolai\Bakalaurs - 2. kurss\Vizuālās programmēšanas pamati\Lab5\QualifWorksClient\obj\Debug\QualifWorksClient.pdb
+D:\Edgara\Skolai\Bakalaurs - 2. kurss\Vizuālās programmēšanas pamati\Lab5\QualifWorksClient\obj\Debug\QualifWorksClient.frmStudent.resources
