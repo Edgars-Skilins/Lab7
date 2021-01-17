@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -62,11 +62,13 @@ namespace WebApp
             var taStudents = new StudentsTableAdapter();
             var tblStudents
             = new DataModel.DataModelDataSet.StudentsDataTable();
+            bool userHasNotReservedBefore = true;
 
             try
             {
-                var testvariable = taStudents.GetData().First(r => r.TopicID == (int)gvTopicSelection.SelectedDataKey["TopicID"] && r.IDCard == txtStudentID.Text);
-                MsgBox("Studentam jau ir šī tēma",this.Page, this);
+                var testvariable = taStudents.GetData().First(r => r.IDCard == txtStudentID.Text);
+                MsgBox("Studentam jau ir rezervēta tēma",this.Page, this);
+                userHasNotReservedBefore = false;
             }
             catch { }
 
@@ -74,7 +76,7 @@ namespace WebApp
             {
                 valStudentID.IsValid = false;
             }
-            if (!IsValid) // Ja formas lauki nav veiksmīgi validēti,
+            if (!IsValid || !userHasNotReservedBefore) // Ja formas lauki nav veiksmīgi validēti,
                 SetupView1(); // tad paliek otrajā solī.
             else try
                 {                    
